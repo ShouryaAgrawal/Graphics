@@ -1,0 +1,5 @@
+Explain what your shader does and how it works.
+
+
+My shader combines 1 textures and adds lighting along areas where sin >0.8 (experimental)
+My slider controls the strenght of the colored lighting

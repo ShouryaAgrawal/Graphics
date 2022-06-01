@@ -1,0 +1,3 @@
+Explain how you used a normal and bump map above
+
+I got a map online and used it as a bump map and a normal map. Bump map looks fake but normal map looks very realistic

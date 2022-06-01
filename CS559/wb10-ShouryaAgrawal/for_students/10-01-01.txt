@@ -1,0 +1,5 @@
+1. INPUT - Vertex and other attributes of that vertex    
+OUTPUT - Resulting Vertex with new properties
+
+2. INPUT - Pixel and other variables                     
+OUTPUT - Pixel with different color and other attributes

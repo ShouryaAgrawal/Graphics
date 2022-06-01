@@ -1,0 +1,15 @@
+Three different behaviors that you made:
+1. Car travelling in infinty
+2. Ball changing sizes while bouncing
+3. Birds Flying with articulate motion
+
+One behavior that is not simple:
+Not simple: Car picking and dropping people
+
+Animated Articulated Figure:
+Articulated: Bird Flying
+
+Other Behaviors that you made: (backup in case something above doesn't count)
+- Bouncing ball
+- Various objects spinning (Optical illusion, Man, UFO)
+-Skelton floating

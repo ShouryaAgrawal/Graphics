@@ -1,0 +1,12 @@
+Please describe the buildings you created in this file 08-06-01.txt
+
+Explain how you made the buildings. 
+
+I have created 2 buildings.
+One is a hospital made by using boxes and stacking them appropiately. Then used a personal texture with door taken from  
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.filterforge.com%2Ffilters%2F15754.html&psig=AOvVaw0NM7NgROHYtW9PJzi1_M-u&ust=1649220236383000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIiFsaWO_PYCFQAAAAAdAAAAABAD
+
+Other is a home building wiyh a pyramid top. 
+It uses a texture from https://trendthink.typepad.com/trendthink/images/2007/07/16/070523jsbgb3296.gif
+
+Pyramid texture is my own

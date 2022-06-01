@@ -1,0 +1,12 @@
+List all attributions here, this include "self-attributions":
+
+Dinosaur : https://sketchfab.com/3d-models/dinosaur-brontosaurus-low-poly-ff071d96aef94e5497416a37c56bbf10
+Man in Suit: https://sketchfab.com/3d-models/man-in-suit-7668c90721144544b3a929edf9eeac9c
+skeleton: https://sketchfab.com/3d-models/low-poly-skeleton-4866bd05df2d4febba463295cd24b564
+Circular Track: Modified from the example given
+Track Car: You guys in the examples
+ShinySculpture: You guys
+Optical Illusion Texture: https://www.google.com/url?sa=i&url=https%3A%2F%2Fsports.yahoo.com%2Ftrippy-optical-illusions-mess-mind-190000438.html&psig=AOvVaw1aSlMtRsF3ZRjVSu45m2j0&ust=1651898803574000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPi3nt-IyvcCFQAAAAAdAAAAABAP
+Museum: https://www.flickr.com/photos/simons/8023371656/sizes/l/
+Texture: Inspired from various on shadertoy
+Stone Texture: https://www.forbes.com/advisor/home-improvement/pros-cons-of-stone-flooring/

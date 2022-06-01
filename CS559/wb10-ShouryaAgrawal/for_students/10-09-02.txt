@@ -1,0 +1,15 @@
+Where did the image come from? 
+
+Images were used which were provided to us by instructors.
+
+
+What lighting did you implement?
+
+I implemented basic specular lighting.
+
+
+Did you do anything beyond basic texure with diffuse lighting (explain)?
+
+Yes. I mixed the 2 textures with the help of a step function
+
+

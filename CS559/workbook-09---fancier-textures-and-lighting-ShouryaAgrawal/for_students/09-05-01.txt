@@ -1,0 +1,6 @@
+Explain why the object you chose is a good use case for environment mapping.
+
+Explain where you got your textures and include any attributions here.
+
+It is an equirectangular image of a scenic riverside. It was a good choice due to its equirectuangular properties. 
+https://www.flickr.com/photos/gadl/303016528/in/album-72157604695660345/ Here is my texture. 

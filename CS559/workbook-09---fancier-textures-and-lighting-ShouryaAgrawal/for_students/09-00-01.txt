@@ -1,0 +1,5 @@
+In this box, explain how you used each of the creation methods listed above
+
+1) I created my own texture in paint and used it in Material Property Maps
+2) I used these througout my assignment
+3) I used it in my book in Fancy Texturing

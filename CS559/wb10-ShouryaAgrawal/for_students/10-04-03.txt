@@ -1,0 +1,4 @@
+Answer the question.
+
+DIffuse lighting can be seen as we can see the shape of the object.
+Specular can be seen as when we move the camera, the same spot looks different (due to diff angle of viewing). Also we can see shiny spots

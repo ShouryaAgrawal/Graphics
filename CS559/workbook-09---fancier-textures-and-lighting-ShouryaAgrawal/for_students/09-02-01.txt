@@ -1,0 +1,3 @@
+Explain how you incorporated a material property map here
+
+I made one in ms paint and included it along with roughness and metalness

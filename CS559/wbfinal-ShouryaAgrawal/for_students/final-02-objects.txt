@@ -1,0 +1,31 @@
+(Required) Two kinds of objects created for this assignment:
+1. Person-1
+2. UFO
+
+(Required) Five other kinds of objects that you created (possibly in previous assignments):
+3.  CyBox-1   : Water Tubes( holding the man and skeleton)
+4. Bird-1 :Prehistoric Birds
+5. OpticalIllusion : Spinning Optical Illusion
+6. Track : 8 Track (Technically modified from your version) attributed.
+7. Ball : Bouncing Ball with realistic motion. not just rise and fall
+
+(Optional) Backup Objects (more objects that you created, in case the ones above don't count):
+- ???
+- ???
+- ???
+
+At least on of each type of object:
+Building/structure: CyBox-1 : Water tubes.
+Vehicle: Track Car :taken from your example
+Natural Element: Water simulated in tubes
+
+Object loaded from a model file:
+Model: Dinosaur. attributed
+        Skelton . attributed
+        Man. Attributed
+
+An object with a shader that you wrote:
+ShaderObj: UFO
+
+Other Objects that you would like to note:
+???

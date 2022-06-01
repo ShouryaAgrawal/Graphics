@@ -1,0 +1,10 @@
+Where did you get your shader? Describe the source and include a link.
+
+Creating your own shader.
+https://dev.to/maniflames/creating-a-custom-shader-in-threejs-3bhi
+
+
+In your own words, describe how this shader works. (3-5 sentences)
+
+This shader works by mixing colors based on the sin value of the y value of the object
+

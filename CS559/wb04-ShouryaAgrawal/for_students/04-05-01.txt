@@ -1,0 +1,4 @@
+Students should list the advanced points they have completed:
+
+    - Bouncing off other boids
+    - Bouncing of obstacles

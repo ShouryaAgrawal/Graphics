@@ -1,0 +1,1 @@
+The Top of the Picture and the Righmost Part of the Picture has Connected Beziers making it continous
